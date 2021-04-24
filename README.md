@@ -14,7 +14,7 @@ Based on our dataset it is clear that there is a statistically positive outcome 
 
 However, a clear blind spot of the available data is the lack of canceled plays in our dataset. 
 
-[Analysis_1.png](https://github.com/craig-clemens/kickstarter-analysis/blob/main/Anaylsis_1.PNG)
+![Analysis_1.png](https://github.com/craig-clemens/kickstarter-analysis/blob/main/Anaylsis_1.PNG)
 
 This indicates that our dataset is either incomplete or, alternatively, canceled plays on Kickstarter are incredibly rare. Outside of this shortcoming, our dataset is fairly expansive and offered us enough information to answer our questions: when is the best time to start a campaign, and what percentage of plays succeed or fail?
 
@@ -22,7 +22,7 @@ This indicates that our dataset is either incomplete or, alternatively, canceled
 
 May, June, and July are statistically the most effective months to launch a campaign, as visualized in the graph below:
 
-[Theater_Outcomes_vs_Launch.png](https://github.com/craig-clemens/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch.png](https://github.com/craig-clemens/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 
 It would be inadvisable to start a campaign in the winter months as a larger percentage of total campaigns fail during this time. This could be that spending around the holiday season impedes a theater consumers ability to also spend on Kickstarter campaigns. Or alternatively, the colder weather suppresses charitable giving to plays. 
 
@@ -32,7 +32,7 @@ Additionally, it would seem that the raw number of campaigns diminish over the w
 
 When analysing the graph below:
 
-[Outcomes_vs_Goals.png](https://github.com/craig-clemens/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals.png](https://github.com/craig-clemens/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 
 we can see that there is a clear intersection of Percentage Successful and Percentage Failed in the $15,000 to $19,999 range. Most all lessor ranges are statistically successful while most higher ranges statistically fail. An outlier of this trend is the two ranges spanning $35,000 to $44,999. Based on our analysis I would claim that this is a statistical outlier as there are very few data points that skew this result.
 
