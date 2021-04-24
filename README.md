@@ -32,7 +32,7 @@ Additionally, it would seem that the raw number of campaigns diminish over the w
 
 When analysing the graph below:
 
-[Outcomes_vs_Goals.png] 
+[Theater_Outcomes_vs_Launch.png] 
 
 we can see that there is a clear intersection of Percentage Successful and Percentage Failed in the $15,000 to $19,999 range. Most all lessor ranges are statistically successful while most higher ranges statistically fail. An outlier of this trend is the two ranges spanning $35,000 to $44,999. Based on our analysis I would claim that this is a statistical outlier as there are very few data points that skew this result.
 
