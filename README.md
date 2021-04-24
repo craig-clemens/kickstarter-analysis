@@ -46,7 +46,7 @@ Two main challenges are prevalent throughout, both are related to the data set:
 
 ## Results
 
-In conclusion, regarding the launch date the data suggests that the most successful campaigns launch in the summer months (May, June, and July) while a higher percentage fail during the winter. However, as the raw numbers of campaigns also diminish during the winter, it skews the percentage as the number of failed campaigns remain relatively the same throughout (=/-20 or so campaigns).
+In conclusion, regarding the launch date the data suggests that the most successful campaigns launch in the summer months (May, June, and July) while a higher percentage fail during the winter. However, as the raw numbers of campaigns also diminish during the winter, it skews the percentage as the number of failed campaigns remain relatively the same throughout (+/-20 or so campaigns).
 
 Regarding goals, the data is quite clear: a campaign is most likely to be successful if it asks for less than $19,999
 
