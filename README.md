@@ -22,7 +22,7 @@ This indicates that our dataset is either incomplete or, alternatively, canceled
 
 May, June, and July are statistically the most effective months to launch a campaign, as visualized in the graph below:
 
-[Theater_Outcomes_vs_Launch.png]
+[Theater_Outcomes_vs_Launch.png](https://github.com/craig-clemens/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 
 It would be inadvisable to start a campaign in the winter months as a larger percentage of total campaigns fail during this time. This could be that spending around the holiday season impedes a theater consumers ability to also spend on Kickstarter campaigns. Or alternatively, the colder weather suppresses charitable giving to plays. 
 
