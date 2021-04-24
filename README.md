@@ -14,7 +14,7 @@ Based on our dataset it is clear that there is a statistically positive outcome 
 
 However, a clear blind spot of the available data is the lack of canceled plays in our dataset. 
 
-[Analysis_1.png]
+[Analysis_1.png](https://github.com/craig-clemens/kickstarter-analysis/blob/main/Anaylsis_1.PNG)
 
 This indicates that our dataset is either incomplete or, alternatively, canceled plays on Kickstarter are incredibly rare. Outside of this shortcoming, our dataset is fairly expansive and offered us enough information to answer our questions: when is the best time to start a campaign, and what percentage of plays succeed or fail?
 
